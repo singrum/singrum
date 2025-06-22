@@ -6,19 +6,13 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;&nbsp;&nbsp;
   
+ 
   
 </p>
-<!--
-**singrum/singrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h2 align="center"> 🖼️ 프로젝트</h2>
+ <p align ="center">
+   <p>라이프돌이(군돌이 클론) : http://singrum.github.io/lifedori</p>
+   <p>Creative Codings : http://singrum.github.io/creative-codings</p>
+    <p>끄글 : http://singrum.github.io/ggeugle</p>
+   <p>이끼 : https://www.ikki.app</p>
+ </p>
