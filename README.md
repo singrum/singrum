@@ -13,5 +13,5 @@
  <p align ="center">
    <p>라이프돌이(군돌이 클론) : http://singrum.github.io/lifedori</p>
    <p>Creative Codings : http://singrum.github.io/creative-codings</p>
-   <p>이끼 : https://www.ikki.app</p>
+   <p>이끼 : https://ikki.app , https://engine.ikki.app</p>
  </p>
