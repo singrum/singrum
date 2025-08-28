@@ -11,9 +11,9 @@
 </p>
  <h2 align="center"> 🖼️ Projects</h2>
  <p align ="center">
-   <p>라이프돌이(군돌이 클론) : http://singrum.github.io/lifedori</p>
-   <p>Solvable Box(후르츠 박스 클론) : https://singrum.github.io/solvable-box/</p>
-   <p>Creative Codings : http://singrum.github.io/creative-codings</p>
-   <p>이끼 : https://ikki.app , https://engine.ikki.app</p>
-   <p>그루 : https://grew.kr</p>
+<p><strong><a href="http://singrum.github.io/lifedori" target="_blank">라이프돌이</a></strong> : 군돌이 클론</p>
+<p><strong><a href="https://singrum.github.io/solvable-box/" target="_blank">Solvable Box</a></strong> : 후르츠 박스 클론</p>
+<p><strong><a href="http://singrum.github.io/creative-codings" target="_blank">Creative Codings</a></strong> : WebGL 작품 모음</p>
+<p><strong><a href="https://ikki.app" target="_blank">이끼</a> <a href="https://engine.ikki.app" target="_blank">(엔진)</a></strong> : 끝말잇기 온라인 게임과 AI 분석 엔진</p>
+<p><strong><a href="https://grew.kr" target="_blank">그루</a></strong> : 트리 구조 기반 학습 플랫폼</p>
  </p>
