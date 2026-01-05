@@ -8,7 +8,7 @@
 <p><strong><a href="https://grew.kr" target="_blank">그루</a></strong> : 트리 구조 기반 학습 플랫폼</p>
 <p><strong><a href="https://sogangguessr.com" target="_blank">서강게서</strong> : GeoGuessr 클론</p>
   
-  <p><strong><a href="https://curator-yt.vercel.app/" target="_blank"> 큐레이터 </strong> : 유튜브 큐레이팅형 블로그</p>
+  <p><strong><a href="https://cr.grew.kr" target="_blank"> 큐레이터 </strong> : 유튜브 큐레이팅형 블로그</p>
  </p>
 
 
