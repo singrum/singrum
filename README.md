@@ -18,6 +18,5 @@
 <p><strong><a href="https://ikki.app" target="_blank">이끼</a> (<a href="https://engine.ikki.app" target="_blank">엔진</a>)</strong> : 온라인 끝말잇기 게임 및 게임 분석 엔진</p>
 <p><strong><a href="https://grew.kr" target="_blank">그루</a></strong> : 트리 구조 기반 학습 플랫폼</p>
 <p><strong><a href="https://sogangguessr.com" target="_blank">서강게서</strong> : GeoGuessr 클론</p>
-  
-  <p><strong><a href="https://curator-yt.vercel.app/" target="_blank"> 큐레이터 </strong></p>
+<p><strong><a href="https://curator-yt.vercel.app/" target="_blank"> 유튜브 큐레이팅형 블로그 </strong></p>
  </p>
